@@ -1,0 +1,28 @@
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.deps.json
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\ref\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.csprojAssemblyReference.cache
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.AssemblyInfoInputs.cache
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.AssemblyInfo.cs
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\ref\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.deps.json
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\ref\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\bin\Debug\netstandard2.0\Xamarin_Calculadora.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.csprojAssemblyReference.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.AssemblyInfoInputs.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.AssemblyInfo.cs
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.csproj.CoreCompileInputs.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\ref\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora\obj\Debug\netstandard2.0\Xamarin_Calculadora.pdb

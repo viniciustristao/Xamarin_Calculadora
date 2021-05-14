@@ -1,0 +1,948 @@
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.Android.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.Android.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora.apk
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora.aab
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora-Signed.aab
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora-Signed.apk
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\build.props
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\adb.props
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csprojAssemblyReference.cache
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res.flag
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\137706640DFB41BA.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\573369AD18FB5C82.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\4722D4884FFB2862.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\940A5A2CCEDDD719.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\EF7B9059099CBB7B.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\D3161519BBBE8FF4.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\5B9ECB8B90BEB584.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\1FDAA44285BEA8BC.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\C307A83CECBEFB14.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\98A7F80A46983E1F.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\DCE397C353982327.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\137706640DFB41BA.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\573369AD18FB5C82.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\4722D4884FFB2862.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\940A5A2CCEDDD719.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\EF7B9059099CBB7B.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\D3161519BBBE8FF4.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\5B9ECB8B90BEB584.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\1FDAA44285BEA8BC.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\C307A83CECBEFB14.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\98A7F80A46983E1F.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\DCE397C353982327.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\R.txt
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\R.cs.flag
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csproj.CoreCompileInputs.cache
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\XamlC.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csproj.CopyComplete
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.apk
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.aab
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.apks
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\uploadflags.txt
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.Android.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.Android.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.dll
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.pdb
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\__environment__.txt
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\static.flag
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\buildid.txt
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64b4be98556b51dd48\MainActivity.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\com\companyname\xamarin_calculadora\R.java
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\tivin\source\repos\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.Android.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.Android.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora.apk
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora.aab
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora-Signed.aab
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora-Signed.apk
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\com.companyname.xamarin_calculadora-Signed.apk.idsig
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\bin\Debug\Xamarin_Calculadora.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\build.props
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\adb.props
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csprojAssemblyReference.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res.flag
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\12\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\13\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\17\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\19\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\26\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\30\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\32\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\33\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\34\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\38\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\lp\39\jl\files.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\R.txt
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\R.cs.flag
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csproj.CoreCompileInputs.cache
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\XamlC.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.csproj.CopyComplete
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\Xamarin_Calculadora.Android.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.apk
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\base.zip
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.aab
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\com.companyname.xamarin_calculadora.apks
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\layout\tabbar.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\layout\toolbar.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\values\styles.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\values\colors.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\uploadflags.txt
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\resolvedassemblies.hash
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Java.Interop.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Android.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Security.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\mscorlib.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\mscorlib.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\netstandard.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Core.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Core.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Data.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Transactions.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\System.Xml.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.Android.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.Android.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.dll
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\Xamarin_Calculadora.pdb
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86_64.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.shared.inc
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\AndroidManifest.xml
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\__environment__.txt
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\assets\machine.config
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\mono.android.jar
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\static.flag
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\buildid.txt
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.arm64-v8a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86_64.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\compat\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\design\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\transition\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64b4be98556b51dd48\MainActivity.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\packaged_resources
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\src\com\companyname\xamarin_calculadora\R.java
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\typemaps.x86_64.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.arm64-v8a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\environment.x86_64.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\android\bin\classes.dex
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+J:\projetos cebrac\Xamarin_Calculadora\Xamarin_Calculadora\Xamarin_Calculadora.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
